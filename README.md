@@ -29,7 +29,6 @@
 ```console
 jeremy@owasso-1:~$ whoami
 hardware hacker / mesh radio tinkerer / android dev / OSINT builder
-Owasso, Oklahoma
 
 jeremy@owasso-1:~$ cat /etc/motd
 I build pocket radios, print the cases for them, write the firmware that
