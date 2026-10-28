@@ -108,7 +108,7 @@ jeremy@host:~$ ls ~/projects | wc -l
 jeremy@host:~$ ./stats --theme=crt
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeremyLakeyJr&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=00FF41&icon_color=FFB000&ring_color=00FF41&include_all_commits=true&count_private=true" height="165" alt="stats" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyLakeyJr&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=00FF41&langs_count=8&hide=css,html,shell,makefile,cmake" height="165" alt="langs" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=JeremyLakeyJr&theme=dark&hide_border=true&background=0D0D0D&ring=00FF41&fire=FFB000&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFB000&sideNums=FFB000&dates=4A7A4A" alt="streak" />
