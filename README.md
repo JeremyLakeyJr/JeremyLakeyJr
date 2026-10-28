@@ -27,15 +27,15 @@
 </div>
 
 ```console
-jeremy@owasso-1:~$ whoami
+jeremy@host:~$ whoami
 hardware hacker / mesh radio tinkerer / android dev / OSINT builder
 
-jeremy@owasso-1:~$ cat /etc/motd
+jeremy@host:~$ cat /etc/motd
 I build pocket radios, print the cases for them, write the firmware that
 runs on them, and the Android apps that talk to them. If it has an antenna,
 a USB port, or a potentiometer, it is fair game.
 
-jeremy@owasso-1:~$ ls ~/projects | wc -l
+jeremy@host:~$ ls ~/projects | wc -l
 36
 ```
 
@@ -47,7 +47,7 @@ jeremy@owasso-1:~$ ls ~/projects | wc -l
 
 | repo | what it is | stack |
 |:--|:--|:--|
-| [**mesh-phone**](https://github.com/JeremyLakeyJr/mesh-phone) | **OWASSO-1**: DIY ESP32-S3 handset. Sub-GHz (CC1101) + LoRa (SX1262) dual radio, LTE, NFC/RFID, GPS, trackball, keypad. Full KiCad PCB + OpenSCAD case. | `KiCad` `Python` `C++` `OpenSCAD` |
+| [**mesh-phone**](https://github.com/JeremyLakeyJr/mesh-phone) | DIY ESP32-S3 handset. Sub-GHz (CC1101) + LoRa (SX1262) dual radio, LTE, NFC/RFID, GPS, trackball, keypad. Full KiCad PCB + OpenSCAD case. | `KiCad` `Python` `C++` `OpenSCAD` |
 | [**meshchat**](https://github.com/JeremyLakeyJr/meshchat) | Hybrid Meshtastic + BitChat firmware for ESP32 LoRa boards. Multi-hop flood-routed mesh + encrypted BLE chat + MQTT bridge. Heltec V2/V3, T-Deck. | `C++` `C` |
 | [**meshtastic-sliding-phone**](https://github.com/JeremyLakeyJr/meshtastic-sliding-phone) | Nokia N900-style slider enclosure for Heltec V4 + CardKB. Magnetic detents, printed rails. | `OpenSCAD` `Python` |
 | [**altoids-mesh**](https://github.com/JeremyLakeyJr/altoids-mesh) | Parametric Altoids-tin enclosure housing a complete Meshtastic node. | `OpenSCAD` |
@@ -103,7 +103,7 @@ jeremy@owasso-1:~$ ls ~/projects | wc -l
 <div align="center">
 
 ```console
-jeremy@owasso-1:~$ ./stats --theme=crt
+jeremy@host:~$ ./stats --theme=crt
 ```
 
 <img src="https://github-readme-stats.vercel.app/api?username=JeremyLakeyJr&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=00FF41&icon_color=FFB000&ring_color=00FF41&include_all_commits=true&count_private=true" height="165" alt="stats" />
@@ -114,11 +114,11 @@ jeremy@owasso-1:~$ ./stats --theme=crt
 <img src="https://raw.githubusercontent.com/JeremyLakeyJr/JeremyLakeyJr/output/github-snake-dark.svg" alt="snake" />
 
 ```console
-jeremy@owasso-1:~$ cat ~/.contact
+jeremy@host:~$ cat ~/.contact
 github   : @JeremyLakeyJr
 youtube  : youtube.com/@jeremylakey
 
-jeremy@owasso-1:~$ _
+jeremy@host:~$ _
 ```
 
 <img src="https://komarev.com/ghpvc/?username=JeremyLakeyJr&style=for-the-badge&color=00FF41&label=VISITORS&labelColor=0D0D0D" alt="visitors" />
