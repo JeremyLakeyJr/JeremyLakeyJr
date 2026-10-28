@@ -1,12 +1,14 @@
+# JeremyLakeyJr
+
 <div align="center">
 
 ```
-     ██╗███████╗██████╗ ███████╗███╗   ███╗██╗   ██╗    ██╗      █████╗ ██╗  ██╗███████╗██╗   ██╗
-     ██║██╔════╝██╔══██╗██╔════╝████╗ ████║╚██╗ ██╔╝    ██║     ██╔══██╗██║ ██╔╝██╔════╝╚██╗ ██╔╝
-     ██║█████╗  ██████╔╝█████╗  ██╔████╔██║ ╚████╔╝     ██║     ███████║█████╔╝ █████╗   ╚████╔╝
-██   ██║██╔══╝  ██╔══██╗██╔══╝  ██║╚██╔╝██║  ╚██╔╝      ██║     ██╔══██║██╔═██╗ ██╔══╝    ╚██╔╝
-╚█████╔╝███████╗██║  ██║███████╗██║ ╚═╝ ██║   ██║       ███████╗██║  ██║██║  ██╗███████╗   ██║
- ╚════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝   ╚═╝       ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝
+  ██████╗ ██████╗ ███████╗███████╗ ██████╗ ██████╗ ███████╗
+  ██╔════╝██╔═══██╗██╔════╝██╔════╝██╔════╝██╔══██╗██╔════╝
+  ██║     ██║   ██║█████╗  ██║     ██║   ██║██║   ██║███████╗
+  ██║     ██║   ██║██╔══╝  ██║     ██║   ██║██║   ██║██╔════╝
+  ╚██████╗╚██████╗╚██████╔╝███████╗╚██████╔╝███████╗
+  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝
 ```
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2400&pause=900&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=720&height=48&lines=%3E+boot+sequence+complete;%3E+ESP32-S3+%2B+LoRa+%2B+sub-GHz+%2B+KiCad;%3E+mesh+radios+%7C+hardware+%7C+android+%7C+OSINT;%3E+if+it+has+a+radio%2C+I+want+to+talk+to+it;%3E+build+it.+print+it.+flash+it.+mesh+it." alt="typing" /></a>
@@ -116,11 +118,18 @@ jeremy@owasso-1:~$ ./stats --theme=crt
 jeremy@owasso-1:~$ cat ~/.contact
 github   : @JeremyLakeyJr
 youtube  : youtube.com/@jeremylakey
-location : Owasso, OK
 
 jeremy@owasso-1:~$ _
 ```
 
 <img src="https://komarev.com/ghpvc/?username=JeremyLakeyJr&style=for-the-badge&color=00FF41&label=VISITORS&labelColor=0D0D0D" alt="visitors" />
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/guns.lol/thelakey?style=for-the-badge&logo=ghost&logoColor=00FF41" alt="The Lakey" />
+
+</div>
 
 </div>
