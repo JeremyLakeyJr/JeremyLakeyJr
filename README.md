@@ -117,6 +117,7 @@ jeremy@host:~$ ./stats --theme=crt
 jeremy@host:~$ cat ~/.contact
 github   : @JeremyLakeyJr
 youtube  : youtube.com/@jeremylakey
+guns.lol : thelakey
 
 jeremy@host:~$ _
 ```
